@@ -38,7 +38,6 @@
 
 ## 🎁 Support
 
-If you like what i do, maybe consider buying me a coffee/tea 🥺👉👈<br><br>
 [![Paypal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](nopakron41310@gmail.com)
 [![ko-fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/pungrumpy)
 
