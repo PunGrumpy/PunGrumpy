@@ -31,10 +31,6 @@
 [![Replit](https://img.shields.io/badge/replit-000001?style=for-the-badge&logo=replit&logoColor=white)](https://replit.com/~)
 [![Vscode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)]()
 
-## ⚙️ Hosting
-
-[![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)](https://www.heroku.com/)
-
 ## 🤝🏻 Connect with Me
 
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/353899973252874260)
