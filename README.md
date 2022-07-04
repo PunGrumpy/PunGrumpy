@@ -26,6 +26,11 @@
 
 [![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/th-th/windows?r=1)
 
+## 🧑‍💻 IDE
+
+[![Replit](https://img.shields.io/badge/replit-000001?style=for-the-badge&logo=replit&logoColor=white)](https://replit.com/~)
+[![Vscode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)]()
+
 ## ⚙️ Hosting
 
 [![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)](https://www.heroku.com/)
