@@ -1,5 +1,5 @@
 <p float="left">
-  <img src='asset/DevilCasper_Animation.gif' width='200' height='284' align="left">
+  <img src='asset/DevilCasper_Animation.gif' width='200' height='350' align="left">
   <p float="left">
 
 👋 Hi! I'm Pun <br>
