@@ -1,6 +1,6 @@
 <p float="left">
   <img src='asset/DevilCasper.jpg' width='200' height='280' align="left">
-  <p float="left">
+  <p float="center">
 
 👋 Hi! I'm Pun <br>
 ❤ Nice to meet you
@@ -9,8 +9,6 @@
 💬 Ask me about anything, I'm happy to help<br>
 💜 Interests: music, video games, programing language<br>
 🎵 I love to R&B music<br>
-
-<!-- 🎓 Currently studying for a bachelor's degree at Faculty of Computer Science, King Mongkut's Institute of Technology Ladkrabang (KMITL). -->
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=t504rlopu4cif7rn4bpbopqde&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=t504rlopu4cif7rn4bpbopqde&redirect=true)
 
