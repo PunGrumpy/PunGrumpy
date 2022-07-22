@@ -45,9 +45,4 @@
     <img src="https://komarev.com/ghpvc/?username=PunGrumpy">
 </a>
 <a href="https://github.com/PunGrumpy?tab=followers"><img src="https://img.shields.io/github/followers/PunGrumpy?label=Followers&style=social" alt="GitHub Badge"></a>
-<br></br>
-<p  align="left">
-  <img src="asset/Banner.gif" width='1000' height='150' align="center">
-
-  </p>
 </p>
