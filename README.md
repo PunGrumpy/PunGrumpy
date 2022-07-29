@@ -24,7 +24,7 @@
 ![HTML](https://img.shields.io/badge/HTML-e34c26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-264de4?style=for-the-badge&logo=css3&logoColor=white)
 
-[![BOOTSTRAP](https://img.shields.io/badge/Bootstrap-563d7c?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
+[![BOOTSTRAP](https://img.shields.io/badge/Bootstrap-8312fa?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
 
 ## 🧑‍💻 IDE & Cloud
 
