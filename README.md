@@ -1,5 +1,5 @@
 <p float="left">
-  <img src='asset/neon-town.jpg' width='200' height='280' align="left">
+  <img src='asset/neon-town.jpg' width='200' align="left">
   <p float="center">
 
 👋 Hi! I'm Pun <br>
@@ -16,20 +16,29 @@
 
 ![Mephisto Grumpy's GitHub stats](https://github-readme-stats.vercel.app/api?username=PunGrumpy&show_icons=true&theme=nightowl)
 
-## ⌨️ Languages
+## ⌨️ Languages & Frameworks
 
+![C Programming](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 [![Python](https://img.shields.io/badge/Python-14354c?style=for-the-badge&logo=python&logoColor=ffffff)](https://www.python.org/)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://www.javascript.com/)
-![C Programming](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-e34c26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-264de4?style=for-the-badge&logo=css3&logoColor=white)
 
-## 💻 OS
+[![BOOTSTRAP](https://img.shields.io/badge/Bootstrap-563d7c?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
 
-[![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/th-th/windows?r=1)
-
-## 🧑‍💻 IDE
+## 🧑‍💻 IDE & Cloud
 
 [![Replit](https://img.shields.io/badge/replit-000001?style=for-the-badge&logo=replit&logoColor=white)](https://replit.com/~)
 [![Vscode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)](https://code.visualstudio.com/)
+[![NeoVim](https://img.shields.io/badge/NeoVim-%2311AB00.svg?&style=for-the-badge&logo=neovim&logoColor=white)](https://neovimcraft.com/)
+
+[![Netlify](https://img.shields.io/badge/Netlify-499ebe?style=for-the-badge&logo=netlify&logoColor=white)](https://www.netlify.com/)
+[![Heroku](https://img.shields.io/badge/Heroku-5b20a5?style=for-the-badge&logo=heroku&logoColor=white)](https://www.heroku.com/)
+[![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com/)
+
+## 💻 OS
+
+[![Windows11Pro](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/th-th/windows?r=1)
 
 ## 🤝🏻 Connect with Me
 
@@ -41,8 +50,13 @@
 [![Paypal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](nopakron41310@gmail.com)
 [![ko-fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/pungrumpy)
 
-  <a href="https://github.com/PunGrumpy">
+##
+
+</p>
+
+<div>
+  <a href="https://github.com/PunGrumpy" style="text-decoration:none">
     <img src="https://komarev.com/ghpvc/?username=PunGrumpy">
 </a>
 <a href="https://github.com/PunGrumpy?tab=followers"><img src="https://img.shields.io/github/followers/PunGrumpy?label=Followers&style=social" alt="GitHub Badge"></a>
-</p>
+</div>
