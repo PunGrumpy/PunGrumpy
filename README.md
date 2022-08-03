@@ -16,15 +16,17 @@
 
 ![Mephisto Grumpy's GitHub stats](https://github-readme-stats.vercel.app/api?username=PunGrumpy&show_icons=true&theme=nightowl)
 
-## ⌨️ Languages & Frameworks
+## ⌨️ Skills
 
 ![C Programming](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 [![Python](https://img.shields.io/badge/Python-14354c?style=for-the-badge&logo=python&logoColor=ffffff)](https://www.python.org/)
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://www.javascript.com/)
-![HTML](https://img.shields.io/badge/HTML-e34c26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-264de4?style=for-the-badge&logo=css3&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-e34c26?style=for-the-badge&logo=html5&logoColor=white)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://www.javascript.com/)
 
-[![BOOTSTRAP](https://img.shields.io/badge/Bootstrap-8312fa?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
+[![BOOTSTRAP](https://img.shields.io/badge/Bootstrap-563d7c?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
+
+[![MongoDB](https://img.shields.io/badge/MongoDB-3FA037?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
 
 ## 🧑‍💻 IDE & Cloud
 
