@@ -22,10 +22,8 @@
 [![Python](https://img.shields.io/badge/Python-14354c?style=for-the-badge&logo=python&logoColor=ffffff)](https://www.python.org/)
 ![CSS](https://img.shields.io/badge/CSS-264de4?style=for-the-badge&logo=css3&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-e34c26?style=for-the-badge&logo=html5&logoColor=white)
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://www.javascript.com/)
-
-[![BOOTSTRAP](https://img.shields.io/badge/Bootstrap-563d7c?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
-
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://www.javascript.com/)<br/>
+[![BOOTSTRAP](https://img.shields.io/badge/Bootstrap-563d7c?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)<br/>
 [![MongoDB](https://img.shields.io/badge/MongoDB-3FA037?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
 
 ## 🧑‍💻 IDE & Cloud
@@ -33,7 +31,7 @@
 [![Replit](https://img.shields.io/badge/replit-000001?style=for-the-badge&logo=replit&logoColor=white)](https://replit.com/~)
 [![Vscode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)](https://code.visualstudio.com/)
 [![NeoVim](https://img.shields.io/badge/NeoVim-%2311AB00.svg?&style=for-the-badge&logo=neovim&logoColor=white)](https://neovimcraft.com/)
-
+[![CodeSandBox](https://img.shields.io/badge/Codesandbox-000000?style=for-the-badge&logo=CodeSandbox&logoColor=white)](https://codesandbox.io/)<br/>
 [![Netlify](https://img.shields.io/badge/Netlify-499ebe?style=for-the-badge&logo=netlify&logoColor=white)](https://www.netlify.com/)
 [![Heroku](https://img.shields.io/badge/Heroku-5b20a5?style=for-the-badge&logo=heroku&logoColor=white)](https://www.heroku.com/)
 [![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com/)
