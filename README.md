@@ -7,8 +7,8 @@
 
 🌱 I’m currently learning Python, JavaScript, and other<br>
 💬 Ask me about anything, I'm happy to help<br>
-💜 Interests: music, video games, programing language<br>
-🎵 I love to R&B music<br>
+<!-- 💜 Interests: music, video games, programing language<br>
+🎵 I love to R&B music<br> -->
 
 <div>
 
