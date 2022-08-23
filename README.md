@@ -91,5 +91,3 @@
 </a>
 <a href="https://github.com/PunGrumpy?tab=followers"><img src="https://img.shields.io/github/followers/PunGrumpy?label=Followers&style=social" alt="GitHub Badge"></a>
 </div>
-
-![Snake animation](https://github.com/pungrumpy/pungrumpy/raw/output/github-contribution-grid-snake.svg)
