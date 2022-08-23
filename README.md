@@ -80,14 +80,6 @@
 
 <div>
 
-<div>
-
-## ✍️ Random Dev Quote
-
-![Random Dev Quote]()
-
-</div>
-
 ## 🎁 Support
 
 [![Paypal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](nopakron41310@gmail.com)
