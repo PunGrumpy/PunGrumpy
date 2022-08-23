@@ -23,7 +23,8 @@
 ![CSS](https://img.shields.io/badge/CSS-264de4?style=for-the-badge&logo=css3&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-e34c26?style=for-the-badge&logo=html5&logoColor=white)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://www.javascript.com/)<br/>
-[![BOOTSTRAP](https://img.shields.io/badge/Bootstrap-563d7c?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)<br/>
+[![BOOTSTRAP](https://img.shields.io/badge/Bootstrap-563d7c?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
+[![ExpressJS](https://img.shields.io/badge/Express.js-010101?style=for-the-badge)](https://expressjs.com/)<br/>
 [![MongoDB](https://img.shields.io/badge/MongoDB-3FA037?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
 
 ## 🧑‍💻 IDE & Cloud
