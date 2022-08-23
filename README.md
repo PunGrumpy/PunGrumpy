@@ -2,7 +2,7 @@
   <img src='asset/city-rain.jpg' width='200' align="left">
   <p float="center">
 
-👋 Hi! I'm Pun <br>
+👋 Hi! Call me **PUN** <br/>
 ❤ Nice to meet you
 
 🌱 I’m currently learning Python, JavaScript, and other<br>
