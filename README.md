@@ -23,10 +23,10 @@
 ## 📈 STATS
 
 <div>
-  <a href="https://github.com/pungrumpy">
+  <a href="https://github.com/pungrumpy" target="blank">
     <img width=450 height=170 align="center" alt="PunGrumpy" src="https://github-readme-stats.vercel.app/api?username=pungrumpy&theme=midnight-purple&show_icons=true&bg_color=0D1117&hide_border=true&count_private=true" />
   </a>
-  <a href="https://github.com/pungrumpy">
+  <a href="https://github.com/pungrumpy" target="blank">
     <img align="center" alt="PunGrumpy" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pungrumpy&theme=midnight-purple&layout=compact&bg_color=0D1117&hide_border=true&count_private=true" />
   </a>
 </div>
