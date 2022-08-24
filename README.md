@@ -7,16 +7,18 @@
 
 🌱 I’m currently learning Python, JavaScript, and other<br>
 💬 Ask me about anything, I'm happy to help<br>
-<!-- 💜 Interests: music, video games, programing language<br>
-🎵 I love to R&B music<br> -->
+💜 Interests: music, video games, programing language<br>
+🎵 I love to R&B music<br>
 
 <div>
 
-![Random Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+<!-- ![Random Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight) -->
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=t504rlopu4cif7rn4bpbopqde&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=t504rlopu4cif7rn4bpbopqde&redirect=true)
 
 </div>
 
-<!-- [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=t504rlopu4cif7rn4bpbopqde&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=t504rlopu4cif7rn4bpbopqde&redirect=true) -->
+
 
 ## 📈 STATS
 
