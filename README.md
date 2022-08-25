@@ -47,7 +47,7 @@
 [![ExpressJS](https://img.shields.io/badge/express.js-fff.svg?style=for-the-badge&logo=express&logoColor=000)](https://expressjs.com/)&nbsp;
 [![MongoDB](https://img.shields.io/badge/MongoDB-3FA037?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)&nbsp;
 [![Blender](https://img.shields.io/badge/blender-EA7600.svg?style=for-the-badge&logo=blender&logoColor=white)](https://www.blender.org/)&nbsp;
-[![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white)]([https://www.blender.org/](https://lightroom.adobe.com)&nbsp;
+[![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white)](https://www.blender.org/](https://lightroom.adobe.com)&nbsp;
 
 </div>
 
