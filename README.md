@@ -36,7 +36,7 @@
 ## ⌨️ Skills
 
 [![C Programming](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)](https://github.com/PunGrumpy)&nbsp;
-[![Java](https://img.shields.io/badge/Java-D0A384?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/en/)&nbsp;
+[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/en/)&nbsp;
 [![Python](https://img.shields.io/badge/Python-14354c?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.python.org/)&nbsp;
 [![CSS](https://img.shields.io/badge/CSS-264de4?style=for-the-badge&logo=css3&logoColor=white)](https://github.com/PunGrumpy)&nbsp;
 [![HTML](https://img.shields.io/badge/HTML-e34c26?style=for-the-badge&logo=html5&logoColor=white)](https://github.com/PunGrumpy)&nbsp;
