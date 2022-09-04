@@ -50,7 +50,7 @@
 [![Blender](https://img.shields.io/badge/blender-EA7600.svg?style=for-the-badge&logo=blender&logoColor=white)](https://www.blender.org/)&nbsp;
 [![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-30a8ff?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=001e36)](https://lightroom.adobe.com)&nbsp;
 [![Figma](https://img.shields.io/badge/figma-%2323231E.svg?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/)&nbsp;
-
+[![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white)](https://yarnpkg.com/)&nbsp;
 </div>
 
 <div>
