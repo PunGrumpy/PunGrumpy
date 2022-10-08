@@ -95,6 +95,14 @@
 
 </div>
 
+<div>
+
+## 🌐 Holopin Badges
+
+[![@pungrumpy's Holopin board](https://holopin.io/api/user/board?user=pungrumpy)](https://holopin.io/@pungrumpy)
+
+</div>
+
 ##
 
 </p>
