@@ -35,20 +35,20 @@
 
 ## ⌨️ Skills
 
-[![C Programming](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)](https://github.com/PunGrumpy)&nbsp;
-[![Python](https://img.shields.io/badge/Python-14354c?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.python.org/)&nbsp;
-[![CSS](https://img.shields.io/badge/CSS-264de4?style=for-the-badge&logo=css3&logoColor=white)](https://github.com/PunGrumpy)&nbsp;
-[![HTML](https://img.shields.io/badge/HTML-e34c26?style=for-the-badge&logo=html5&logoColor=white)](https://github.com/PunGrumpy)&nbsp;
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://www.javascript.com/)&nbsp;
-[![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org)&nbsp;
-[![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)&nbsp;
-[![NodeJS](https://img.shields.io/badge/Node.js-3C873A?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/en/)&nbsp;
-[![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white)](https://yarnpkg.com/)&nbsp;
-[![ExpressJS](https://img.shields.io/badge/express.js-fff.svg?style=for-the-badge&logo=express&logoColor=000)](https://expressjs.com/)&nbsp;
-[![MongoDB](https://img.shields.io/badge/MongoDB-3FA037?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)&nbsp;
-[![Blender](https://img.shields.io/badge/blender-EA7600.svg?style=for-the-badge&logo=blender&logoColor=white)](https://www.blender.org/)&nbsp;
-[![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-30a8ff?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=001e36)](https://lightroom.adobe.com)&nbsp;
-[![Figma](https://img.shields.io/badge/figma-%2323231E.svg?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/)&nbsp;
+[![C Programming](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)](https://github.com/PunGrumpy)
+[![Python](https://img.shields.io/badge/Python-14354c?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.python.org/)
+[![CSS](https://img.shields.io/badge/CSS-264de4?style=for-the-badge&logo=css3&logoColor=white)](https://github.com/PunGrumpy)
+[![HTML](https://img.shields.io/badge/HTML-e34c26?style=for-the-badge&logo=html5&logoColor=white)](https://github.com/PunGrumpy)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://www.javascript.com/)
+[![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org)
+[![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
+[![NodeJS](https://img.shields.io/badge/Node.js-3C873A?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/en/);
+[![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white)](https://yarnpkg.com/)
+[![ExpressJS](https://img.shields.io/badge/express.js-fff.svg?style=for-the-badge&logo=express&logoColor=000)](https://expressjs.com/)
+[![MongoDB](https://img.shields.io/badge/MongoDB-3FA037?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
+[![Blender](https://img.shields.io/badge/blender-EA7600.svg?style=for-the-badge&logo=blender&logoColor=white)](https://www.blender.org/)
+[![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-30a8ff?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=001e36)](https://lightroom.adobe.com)
+[![Figma](https://img.shields.io/badge/figma-%2323231E.svg?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/)
 
 </div>
 
