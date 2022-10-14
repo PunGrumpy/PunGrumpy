@@ -42,7 +42,7 @@
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://www.javascript.com/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org)
 [![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
-[![NodeJS](https://img.shields.io/badge/Node.js-3C873A?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/en/);
+[![NodeJS](https://img.shields.io/badge/Node.js-3C873A?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/en/)
 [![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white)](https://yarnpkg.com/)
 [![ExpressJS](https://img.shields.io/badge/express.js-fff.svg?style=for-the-badge&logo=express&logoColor=000)](https://expressjs.com/)
 [![MongoDB](https://img.shields.io/badge/MongoDB-3FA037?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
