@@ -56,14 +56,14 @@
 
 ## 🧑‍💻 IDE & Hosting
 
-[![Replit](https://img.shields.io/badge/replit-000001?style=for-the-badge&logo=replit&logoColor=white)](https://replit.com/~)&nbsp;
-[![Vscode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)](https://code.visualstudio.com/)&nbsp;
-[![NeoVim](https://img.shields.io/badge/NeoVim-%2311AB00.svg?&style=for-the-badge&logo=neovim&logoColor=white)](https://neovimcraft.com/)&nbsp;
-[![CodeSandBox](https://img.shields.io/badge/Codesandbox-000000?style=for-the-badge&logo=CodeSandbox&logoColor=white)](https://codesandbox.io/)&nbsp;
-[![Gitpod](https://img.shields.io/badge/gitpod-f06611.svg?style=for-the-badge&logo=gitpod&logoColor=white)](https://gitpod.io/)&nbsp;
-[![Netlify](https://img.shields.io/badge/Netlify-499ebe?style=for-the-badge&logo=netlify&logoColor=white)](https://www.netlify.com/)&nbsp;
-[![Heroku](https://img.shields.io/badge/Heroku-5b20a5?style=for-the-badge&logo=heroku&logoColor=white)](https://www.heroku.com/)&nbsp;
-[![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com/)&nbsp;
+[![Replit](https://img.shields.io/badge/replit-000001?style=for-the-badge&logo=replit&logoColor=white)](https://replit.com/~)
+[![Vscode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)](https://code.visualstudio.com/)
+[![NeoVim](https://img.shields.io/badge/NeoVim-%2311AB00.svg?&style=for-the-badge&logo=neovim&logoColor=white)](https://neovimcraft.com/)
+[![CodeSandBox](https://img.shields.io/badge/Codesandbox-000000?style=for-the-badge&logo=CodeSandbox&logoColor=white)](https://codesandbox.io/)
+[![Gitpod](https://img.shields.io/badge/gitpod-f06611.svg?style=for-the-badge&logo=gitpod&logoColor=white)](https://gitpod.io/)
+[![Netlify](https://img.shields.io/badge/Netlify-499ebe?style=for-the-badge&logo=netlify&logoColor=white)](https://www.netlify.com/)
+[![Heroku](https://img.shields.io/badge/Heroku-5b20a5?style=for-the-badge&logo=heroku&logoColor=white)](https://www.heroku.com/)
+[![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com/)
 
 </div>
 
@@ -71,7 +71,7 @@
 
 ## 💻 OS
 
-[![Windows11Pro](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/th-th/windows?r=1)&nbsp;
+[![Windows11Pro](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/th-th/windows?r=1)
 
 </div>
 
@@ -79,8 +79,8 @@
 
 ## 🤝🏻 Connect with Me
 
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/353899973252874260)&nbsp;
-[![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/t504rlopu4cif7rn4bpbopqde)&nbsp;
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/353899973252874260)
+[![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/t504rlopu4cif7rn4bpbopqde)
 
 </div>
 
