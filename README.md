@@ -5,7 +5,7 @@
 👋 Hi! Call me **PUN** <br/>
 ❤ Nice to meet you
 
-🌱 I’m currently learning Ethical Hacking 👨🏽‍💻<br>
+🌱 I’m currently learning **Ethical Hacking** 👨🏽‍💻<br>
 💬 Ask me about anything, I'm happy to help<br>
 💜 Interests: music, video games, programing language<br>
 🎵 I love to R&B music<br>
