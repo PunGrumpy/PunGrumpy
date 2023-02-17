@@ -64,7 +64,8 @@
 [![NeoVim](https://img.shields.io/badge/NeoVim-%2311AB00.svg?&style=for-the-badge&logo=neovim&logoColor=white)](https://neovimcraft.com/)
 [![CodeSandBox](https://img.shields.io/badge/Codesandbox-000000?style=for-the-badge&logo=CodeSandbox&logoColor=white)](https://codesandbox.io/)
 [![Gitpod](https://img.shields.io/badge/gitpod-f06611.svg?style=for-the-badge&logo=gitpod&logoColor=white)](https://gitpod.io/)
-[![Netlify](https://img.shields.io/badge/Netlify-499ebe?style=for-the-badge&logo=netlify&logoColor=white)](https://www.netlify.com/)
+[![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white)](https://www.digitalocean.com/?refcode=a33b42e7f83b&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge)
+[![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)](https://www.netlify.com/)
 [![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com/)
 
 </div>
