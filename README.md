@@ -65,7 +65,6 @@
 [![CodeSandBox](https://img.shields.io/badge/Codesandbox-000000?style=for-the-badge&logo=CodeSandbox&logoColor=white)](https://codesandbox.io/)
 [![Gitpod](https://img.shields.io/badge/gitpod-f06611.svg?style=for-the-badge&logo=gitpod&logoColor=white)](https://gitpod.io/)
 [![Netlify](https://img.shields.io/badge/Netlify-499ebe?style=for-the-badge&logo=netlify&logoColor=white)](https://www.netlify.com/)
-[![Heroku](https://img.shields.io/badge/Heroku-5b20a5?style=for-the-badge&logo=heroku&logoColor=white)](https://www.heroku.com/)
 [![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com/)
 
 </div>
