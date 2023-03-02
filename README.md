@@ -7,7 +7,7 @@
 
 🌱 I’m currently learning **Ethical Hacking** 👨🏽‍💻<br>
 💬 Ask me about anything, I'm happy to help<br>
-💜 Interests: DevOps, Bug hunter, Ethical hacker
+💜 Interests: DevOps, Bug hunter, Ethical hacker<br>
 🎵 I love to R&B music<br>
 
 <br />    
