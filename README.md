@@ -102,6 +102,29 @@
 
 <div>
 
+## 🐳 Specs
+
+```yaml
+apiVersion: v20
+kind: Human
+metadata:
+  name: Noppakorn Kaewsalabnil
+spec:
+  purpose: Learn and become a DevOps
+  locations:
+    - type: University
+      where: King Mongkut's Institute of Technology Ladkrabang(KMITL)
+    - type: Homepage
+      where: www.pungrumpy.com
+  favorites:
+    animal: 🐈 🐕 🐋
+    emoji: 👻
+```
+  
+</div>
+
+<div>
+
 ## 🌐 Holopin Badges
 
 [![@pungrumpy's Holopin board](https://holopin.io/api/user/board?user=pungrumpy)](https://holopin.io/@pungrumpy)
