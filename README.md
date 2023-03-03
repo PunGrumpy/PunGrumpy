@@ -113,9 +113,11 @@ spec:
   purpose: Learn and become a DevOps
   locations:
     - type: University
-      where: King Mongkut's Institute of Technology Ladkrabang(KMITL)
+      where: King Mongkut's Institute of Technology Ladkrabang (KMITL)
     - type: Homepage
       where: www.pungrumpy.com
+    - type: Country
+      where: Thailand
   favorites:
     animal: 🐈 🐕 🐋
     emoji: 👻
