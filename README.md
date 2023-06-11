@@ -88,7 +88,7 @@
 
 <div>
 
-## 🤝🏻 Connect with Me
+## 🤝 Connect with Me
 
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/353899973252874260)
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/t504rlopu4cif7rn4bpbopqde)
