@@ -138,7 +138,7 @@ spec:
 
 ## 🌐 Holopin Badges
 
-[![@pungrumpy's Holopin board](https://holopin.io/api/user/board?user=pungrumpy)](https://holopin.io/@pungrumpy)
+[![@pungrumpy's Holopin board](https://holopin.me/pungrumpy)](https://holopin.io/@pungrumpy)
 
 </div>
 
