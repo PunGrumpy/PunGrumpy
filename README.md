@@ -37,6 +37,9 @@
 
 ## ⌨️ Skills
 
+[![Bun](https://img.shields.io/badge/Bun-%23000000.svg?style=for-the-badge&logo=bun&logoColor=white)](https://bun.sh/)
+[![PNPM](https://img.shields.io/badge/pnpm-%23242526.svg?style=for-the-badge&logo=pnpm&logoColor=f69220)](https://pnpm.io/)
+[![Deno](https://img.shields.io/badge/deno-000000?style=for-the-badge&logo=deno&logoColor=white)](https://deno.com/)
 [![Python](https://img.shields.io/badge/Python-14354c?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.python.org/)
 [![CSS](https://img.shields.io/badge/CSS-264de4?style=for-the-badge&logo=css3&logoColor=white)](https://github.com/PunGrumpy)
 [![HTML](https://img.shields.io/badge/HTML-e34c26?style=for-the-badge&logo=html5&logoColor=white)](https://github.com/PunGrumpy)
