@@ -62,6 +62,7 @@
 [![ExpressJS](https://img.shields.io/badge/express.js-fff.svg?style=for-the-badge&logo=express&logoColor=000)](https://expressjs.com/)
 [![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)](https://reactjs.org/)
 [![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)](https://nextjs.org/)
+[![Elysia JS](https://img.shields.io/badge/elysia-%231f2937?style=for-the-badge&logo=elysiajs&logoColor=%23dfe1da)](https://elysiajs.com/)
 [![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)](https://www.prisma.io/)
 [![Cypress](https://img.shields.io/badge/-cypress-%23fff?style=for-the-badge&logo=cypress&logoColor=058a5e)](https://www.cypress.io/)
 [![Blender](https://img.shields.io/badge/blender-EA7600.svg?style=for-the-badge&logo=blender&logoColor=white)](https://www.blender.org/)
