@@ -120,7 +120,7 @@
 ## 🐳 Specs
 
 ```yaml
-apiVersion: v20
+apiVersion: v21
 kind: Human
 metadata:
   name: Noppakorn Kaewsalabnil
