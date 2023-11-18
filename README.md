@@ -26,10 +26,10 @@
 
 <div>
   <a href="https://github.com/pungrumpy" target="blank">
-    <img width=450 height=170 align="center" alt="PunGrumpy" src="https://readme-stats.pungrumpy.com/api?username=pungrumpy&theme=xcad&show_icons=true&bg_color=0D1117&hide_border=true&count_private=true" />
+    <img width=450 height=170 align="center" alt="PunGrumpy" src="https://readme-stats.pungrumpy.com/api?username=pungrumpy&theme=dullahan&show_icons=true&bg_color=0D1117&hide_border=true&count_private=true" />
   </a>
   <a href="https://github.com/pungrumpy" target="blank">
-    <img align="center" alt="PunGrumpy" src="https://readme-stats.pungrumpy.com/api/top-langs/?username=pungrumpy&theme=xcad&layout=compact&bg_color=0D1117&hide_border=true&count_private=true" />
+    <img align="center" alt="PunGrumpy" src="https://readme-stats.pungrumpy.com/api/top-langs/?username=pungrumpy&theme=dullahan&layout=compact&bg_color=0D1117&hide_border=true&count_private=true" />
   </a>
 </div>
 
