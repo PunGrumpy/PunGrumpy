@@ -136,6 +136,7 @@ spec:
   favorites:
     animal: 🐈 🐕 🐋
     emoji: 👻
+    drink: ☕ 🍹 🥛
 ```
   
 </div>
