@@ -2,13 +2,13 @@
   <img src='asset/city-rain.jpg' width='200' height='285' align="left">
   <p float="center">
 
-👋 Hi! Call me **PUN** <br/>
-❤ Nice to meet you
+👋 Hi there! I'm **PUN** <br/>
+❤️ Nice to meet you!
 
-🌱 I’m currently learning **Ethical Hacking** 👨🏽‍💻<br>
-💬 Ask me about anything, I'm happy to help<br>
-💜 Interests: DevOps, Bug hunter, Ethical hacker<br>
-🎵 I love to R&B music<br>
+🌱 Currently diving into **Ethical Hacking** 👨🏽‍💻<br/>
+💬 Ask me anything—I'm here to help.<br/>
+💜 Interests: DevOps, Bug Hunting, Ethical Hacking<br/>
+🎵 I groove to R&B tunes<br/><br/>
 
 <br />    
     
