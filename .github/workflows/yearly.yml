@@ -1,0 +1,28 @@
+name: 🍋 Update Yearly
+on:
+  schedule:
+    - cron: '0 0 1 1 *' # Run on the first day of every year at 00:00 UTC
+  workflow_dispatch:
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: 🛫 Checkout Code
+        uses: actions/checkout@v4
+      - name: 🆕 Update Yearly
+        shell: bash
+        run: |
+          bash assets/scripts/updateYearly.sh
+      - name: 📤 Commit & Push
+        uses: EndBug/add-and-commit@v9
+        with:
+          add: .
+          author_name: github-actions[bot]
+          author_email: 41898282+github-actions[bot]@users.noreply.github.com
+          message: 🍋 Update Yearly
+          commit: --signoff
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+      - name: 🚀 Push
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
