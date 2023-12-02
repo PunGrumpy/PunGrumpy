@@ -1,5 +1,5 @@
 <p float="left">
-  <img src='asset/city-rain.jpg' width='200' height='285' align="left">
+  <img src='assets/images/city-rain.jpg' width='200' height='285' align="left">
   <p float="center">
 
 👋 Hi there! I'm **PUN** <br/>
