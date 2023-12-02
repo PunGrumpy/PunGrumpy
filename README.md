@@ -5,10 +5,10 @@
 👋 Hi there! I'm **PUN** <br/>
 ❤️ Nice to meet you!
 
-🌱 I’m currently learning **Ethical Hacking** 👨🏽‍💻<br>
-💬 Ask me about anything, I'm happy to help<br>
-💜 Interests: DevOps, Bug hunter, Ethical hacker<br>
-🎵 I love to R&B music<br>
+🌱 Currently diving into **Ethical Hacking** 👨🏽‍💻<br/>
+💬 Ask me anything—I'm here to help.<br/>
+💜 Interests in **DevOps**, **Bug Hunting**, **Ethical Hacking**<br/>
+🎵 I groove to **R&B** tunes<br/>
 
 <br />    
     
@@ -19,8 +19,6 @@
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=t504rlopu4cif7rn4bpbopqde&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=t504rlopu4cif7rn4bpbopqde&redirect=true)
 
 </div>
-
-
 
 ## 📈 STATS
 
@@ -68,7 +66,7 @@
 [![Blender](https://img.shields.io/badge/blender-EA7600.svg?style=for-the-badge&logo=blender&logoColor=white)](https://www.blender.org/)
 [![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-30a8ff?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=001e36)](https://lightroom.adobe.com)
 [![Figma](https://img.shields.io/badge/figma-%2323231E.svg?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/)
-  
+
 </div>
 
 <div>
@@ -99,24 +97,6 @@
 
 <div>
 
-## 🤝 Connect with Me
-
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/353899973252874260)
-[![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/t504rlopu4cif7rn4bpbopqde)
-
-</div>
-
-<div>
-
-## 🎁 Support
-
-[![Paypal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](nopakron41310@gmail.com)
-[![ko-fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/pungrumpy)
-
-</div>
-
-<div>
-
 ## 🐳 Specs
 
 ```yaml
@@ -138,7 +118,25 @@ spec:
     emoji: 👻
     drink: ☕ 🍹 🥛
 ```
-  
+
+</div>
+
+<div>
+
+## 🤝 Connect with Me
+
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/353899973252874260)
+[![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/t504rlopu4cif7rn4bpbopqde)
+
+</div>
+
+<div>
+
+## 🎁 Support
+
+[![Paypal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](nopakron41310@gmail.com)
+[![ko-fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/pungrumpy)
+
 </div>
 
 <div>
@@ -153,9 +151,17 @@ spec:
 
 </p>
 
-<div>
+<div align="center">
+  <sub> © 2023 Noppakorn Kaewsalabnil. All rights reserved. </sub>
+</div>
+
+<br />
+
+<div align="center">
   <a href="https://github.com/PunGrumpy" style="text-decoration:none">
     <img src="https://komarev.com/ghpvc/?username=PunGrumpy">
-</a>
-<a href="https://github.com/PunGrumpy?tab=followers"><img src="https://img.shields.io/github/followers/PunGrumpy?label=Followers&style=social" alt="GitHub Badge"></a>
+  </a>
+  <a href="https://github.com/PunGrumpy?tab=followers">
+    <img src="https://img.shields.io/github/followers/PunGrumpy?label=Followers&style=social" alt="GitHub Badge">
+  </a>
 </div>
