@@ -13,8 +13,14 @@ jobs:
         shell: bash
         run: |
           bash assets/scripts/updateYearly.sh
+      - name: 👶 Check for Changed
+        id: check
+        uses: tj-actions/changed-files@v40
+        with:
+          files: README.md
       - name: 📤 Commit & Push
         uses: EndBug/add-and-commit@v9
+        if: ${{ steps.check.outputs.any_changed }}
         with:
           add: .
           author_name: github-actions[bot]
@@ -24,5 +30,6 @@ jobs:
           github_token: ${{ secrets.GITHUB_TOKEN }}
       - name: 🚀 Push
         uses: ad-m/github-push-action@master
+        if: ${{ steps.check.outputs.any_changed }}
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
