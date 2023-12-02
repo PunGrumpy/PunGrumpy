@@ -19,8 +19,8 @@ jobs:
         with:
           files: README.md
       - name: 📤 Commit & Push
+        if: ${{ github.event_name != 'workflow_dispatch' && steps.check.outputs.any_changed }}
         uses: EndBug/add-and-commit@v9
-        if: ${{ steps.check.outputs.any_changed }}
         with:
           add: .
           author_name: github-actions[bot]
@@ -29,7 +29,10 @@ jobs:
           commit: --signoff
           github_token: ${{ secrets.GITHUB_TOKEN }}
       - name: 🚀 Push
+        if: ${{ github.event_name != 'workflow_dispatch' && steps.check.outputs.any_changed }}
         uses: ad-m/github-push-action@master
-        if: ${{ steps.check.outputs.any_changed }}
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
+      - name: 📣 Dry Run Notification
+        if: github.event_name == 'workflow_dispatch'
+        run: echo "This is a dry-run. No changes were committed."
