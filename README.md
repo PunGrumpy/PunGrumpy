@@ -5,10 +5,10 @@
 👋 Hi there! I'm **PUN** <br/>
 ❤️ Nice to meet you!
 
-🌱 Currently diving into **Ethical Hacking** 👨🏽‍💻<br/>
-💬 Ask me anything—I'm here to help.<br/>
-💜 Interests: DevOps, Bug Hunting, Ethical Hacking<br/>
-🎵 I groove to R&B tunes<br/><br/>
+🌱 I’m currently learning **Ethical Hacking** 👨🏽‍💻<br>
+💬 Ask me about anything, I'm happy to help<br>
+💜 Interests: DevOps, Bug hunter, Ethical hacker<br>
+🎵 I love to R&B music<br>
 
 <br />    
     
