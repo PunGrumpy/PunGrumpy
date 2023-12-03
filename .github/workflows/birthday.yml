@@ -1,0 +1,38 @@
+name: 🎂 Update Birthday
+on:
+  schedule:
+    - cron: '0 0 4 11 *'
+  workflow_dispatch:
+jobs:
+  birthday:
+    runs-on: ubuntu-latest
+    steps:
+      - name: 🛫 Checkout Code
+        uses: actions/checkout@v4
+      - name: 🆕 Update Birthday
+        shell: bash
+        run: |
+          bash assets/scripts/updateBirthday.sh
+      - name: 👶 Check for Changed
+        id: check
+        uses: tj-actions/changed-files@v40
+        with:
+          files: README.md
+      - name: 📤 Commit & Push
+        if: ${{ github.event_name != 'workflow_dispatch' && steps.check.outputs.any_changed }}
+        uses: EndBug/add-and-commit@v9
+        with:
+          add: .
+          author_name: github-actions[bot]
+          author_email: 41898282+github-actions[bot]@users.noreply.github.com
+          message: 🎂 Update Birthday
+          commit: --signoff
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+      - name: 🚀 Push
+        if: ${{ github.event_name != 'workflow_dispatch' && steps.check.outputs.any_changed }}
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+      - name: 📣 Dry Run Notification
+        if: github.event_name == 'workflow_dispatch'
+        run: echo "This is a dry-run. No changes were committed."
