@@ -5,7 +5,7 @@
 👋 Hi there! I'm **PUN** <br/>
 ❤️ Nice to meet you!
 
-🌱 Currently diving into **Ethical Hacking** 👨🏽‍💻<br/>
+🌱 Currently diving into **Kubernetes (CKA)** ☸️<br/>
 💬 Ask me anything—I'm here to help.<br/>
 💜 Interests in **DevOps**, **Bug Hunting**, **Ethical Hacking**<br/>
 🎵 I groove to **R&B** tunes<br/>
