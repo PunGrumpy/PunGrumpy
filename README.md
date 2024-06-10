@@ -22,7 +22,7 @@
       <img width=450 height=170 align="center" alt="PunGrumpy" src="https://readme-stats.pungrumpy.com/api?username=pungrumpy&theme=dullahan&show_icons=true&hide_border=true&count_private=true" />
     </a>
     <a href="https://github.com/pungrumpy" target="blank">
-      <img align="center" alt="PunGrumpy" src="https://readme-stats.pungrumpy.com/api/top-langs/?username=pungrumpy&theme=dullahan&layout=compact&hide_border=true&count_private=true" />
+      <img align="center" alt="PunGrumpy" src="https://readme-stats.pungrumpy.com/api/top-langs/?username=pungrumpy&theme=dullahan&layout=compact&hide_border=true&count_private=true&hide=jupyter%20notebook" />
     </a>
   </div>
 
