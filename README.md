@@ -13,7 +13,7 @@
   <br />    
     
   <div>
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=t504rlopu4cif7rn4bpbopqde&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false" alt="Spotify Now Playing" />
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=t504rlopu4cif7rn4bpbopqde&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false" alt="Spotify Now Playing" />
   </div>
 
   <div>
