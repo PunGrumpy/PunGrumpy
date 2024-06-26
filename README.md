@@ -111,7 +111,7 @@ spec:
 
 <div>
   <h2>🌐 Holopin Badges</h2>
-  <img src="https://holopin.me/pungrumpy" alt="@pungrumpy's Holopin board" width="100%"/>
+  <img src="https://holopin.io/@pungrumpy" alt="@pungrumpy's Holopin board" width="100%"/>
 </div>
 
 <hr />
