@@ -88,7 +88,7 @@
     <h2>🐳 Specifications</h2>
 
 ```yaml
-apiVersion: v21
+apiVersion: v22
 kind: Human
 metadata:
   name: Noppakorn Kaewsalabnil
