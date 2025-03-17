@@ -30,10 +30,7 @@
     <h2>⌨️ Skills</h2>
     <a href="https://bun.sh/"><img src="https://img.shields.io/badge/Bun-%23000000.svg?style=for-the-badge&logo=bun&logoColor=white" alt="Bun"></a>
     <a href="https://pnpm.io/"><img src="https://img.shields.io/badge/pnpm-%23242526.svg?style=for-the-badge&logo=pnpm&logoColor=f69220" alt="PNPM"></a>
-    <a href="https://deno.com/"><img src="https://img.shields.io/badge/deno-000000?style=for-the-badge&logo=deno&logoColor=white" alt="Deno"></a>
     <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-14354c?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"></a>
-    <a href="https://github.com/PunGrumpy"><img src="https://img.shields.io/badge/CSS-264de4?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"></a>
-    <a href="https://github.com/PunGrumpy"><img src="https://img.shields.io/badge/HTML-e34c26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"></a>
     <a href="https://www.javascript.com/"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"></a>
     <a href="https://www.typescriptlang.org"><img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"></a>
     <a href="https://go.dev/"><img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" alt="Go"></a>
@@ -47,19 +44,13 @@
     <a href="https://argo-cd.readthedocs.io/"><img src="https://img.shields.io/badge/argo%20cd-%23fffeff.svg?style=for-the-badge&logo=argo&logoColor=%23ee6936" alt="ArgoCD"></a>
     <a href="https://www.ansible.com/"><img src="https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white" alt="Ansible"></a>
     <a href="https://www.terraform.io/"><img src="https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform"></a>
-    <a href="https://www.pytorch.org/"><img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"></a>
-    <a href="https://www.tensorflow.org/"><img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"></a>
     <a href="https://tailwindcss.com/"><img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS"></a>
     <a href="https://www.mongodb.com/"><img src="https://img.shields.io/badge/MongoDB-3FA037?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"></a>
     <a href="https://www.postgresql.org/"><img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="Postgres"></a>
-    <a href="https://cockroachlabs.cloud/"><img src="https://img.shields.io/badge/Cockroach%20Labs-6933FF?style=for-the-badge&logo=Cockroach%20Labs&logoColor=white" alt="CockroachLabs"></a>
-    <a href="https://expressjs.com/"><img src="https://img.shields.io/badge/express.js-fff.svg?style=for-the-badge&logo=express&logoColor=000" alt="ExpressJS"></a>
     <a href="https://reactjs.org/"><img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React"></a>
     <a href="https://nextjs.org/"><img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next JS"></a>
     <a href="https://elysiajs.com/"><img src="https://img.shields.io/badge/elysia-%231f2937?style=for-the-badge&logo=firefox&logoColor=%23dfe1da" alt="Elysia JS"></a>
     <a href="https://www.prisma.io/"><img src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white" alt="Prisma"></a>
-    <a href="https://www.cypress.io/"><img src="https://img.shields.io/badge/-cypress-%23fff?style=for-the-badge&logo=cypress&logoColor=058a5e" alt="Cypress"></a>
-    <a href="https://www.blender.org/"><img src="https://img.shields.io/badge/blender-EA7600.svg?style=for-the-badge&logo=blender&logoColor=white" alt="Blender"></a>
     <a href="https://lightroom.adobe.com"><img src="https://img.shields.io/badge/Adobe%20Lightroom-30a8ff?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=001e36" alt="Adobe Lightroom"></a>
     <a href="https://www.figma.com/"><img src="https://img.shields.io/badge/figma-%2323231E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"></a>
   </div>
