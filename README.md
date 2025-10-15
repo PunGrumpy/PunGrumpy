@@ -59,7 +59,7 @@
     <a href="https://cursor.com/"><img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" alt="Cursor"></a>
     <a href="https://neovimcraft.com/"><img src="https://img.shields.io/badge/NeoVim-%2311AB00.svg?&style=for-the-badge&logo=neovim&logoColor=white" alt="NeoVim"></a>
     <a href="https://codesandbox.io/"><img src="https://img.shields.io/badge/Codesandbox-000000?style=for-the-badge&logo=CodeSandbox&logoColor=white" alt="CodeSandBox"></a>
-    <a href="https://http://cloudflare.com/"><img src="https://img.shields.io/badge/cloudflare-F38020.svg?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Gitpod"></a>
+    <a href="https://cloudflare.com/"><img src="https://img.shields.io/badge/cloudflare-F38020.svg?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Gitpod"></a>
     <a href="https://www.digitalocean.com/?refcode=a33b42e7f83b&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge"><img src="https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white" alt="DigitalOcean"></a>
     <a href="https://www.netlify.com/"><img src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7" alt="Netlify"></a>
     <a href="https://vercel.com/"><img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"></a>
@@ -113,3 +113,4 @@ spec:
     <img src="https://img.shields.io/github/followers/PunGrumpy?label=Followers&style=social" alt="GitHub Badge">
   </a>
 </div>
+
