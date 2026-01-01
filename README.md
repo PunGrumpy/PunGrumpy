@@ -100,7 +100,7 @@ spec:
 </p>
 
 <div align="center">
-  <sub> © 2025 Noppakorn Kaewsalabnil. All rights reserved. </sub>
+  <sub> © 2026 Noppakorn Kaewsalabnil. All rights reserved. </sub>
 </div>
 
 <br />
