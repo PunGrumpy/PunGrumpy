@@ -22,7 +22,8 @@
       <img width=450 height=170 align="center" alt="PunGrumpy" src="https://readme-stats.pungrumpy.com/api?username=pungrumpy&theme=vesper&show_icons=true&hide_border=true&count_private=true" />
     </a>
     <a href="https://github.com/pungrumpy" target="blank">
-      <img align="center" alt="PunGrumpy" src="https://readme-stats.pungrumpy.com/api/top-langs/?username=pungrumpy&theme=vesper&layout=compact&hide_border=true&count_private=true&hide=jupyter%20notebook" />
+      <img align="center" alt="PunGrumpy" src="https://readme-stats.pungrumpy.com/api/top-langs/?username=pungrumpy&theme=vesper&layout=compact&hide_border=true&count_private=true&hide=jupyter%20notebook,html,css
+" />
     </a>
   </div>
 
@@ -112,5 +113,6 @@ spec:
     <img src="https://img.shields.io/github/followers/PunGrumpy?label=Followers&style=social" alt="GitHub Badge">
   </a>
 </div>
+
 
 
