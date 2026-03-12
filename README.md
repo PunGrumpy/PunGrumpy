@@ -91,7 +91,9 @@ spec:
 
 <div>
   <h2>🌐 Holopin Badges</h2>
-  <img src="https://holopin.me/pungrumpy" alt="@pungrumpy's Holopin board" width="100%"/>
+  <a href="https://holopin.io/@pungrumpy" style="text-decoration:none">
+    <img src="https://holopin.me/@pungrumpy" alt="An image of @pungrumpy's Holopin badges, which is a link to view their full Holopin profile" width="100%"/>
+  </a>
 </div>
 
 <hr />
@@ -112,6 +114,7 @@ spec:
     <img src="https://img.shields.io/github/followers/PunGrumpy?label=Followers&style=social" alt="GitHub Badge">
   </a>
 </div>
+
 
 
 
