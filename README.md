@@ -38,8 +38,6 @@ spec:
 - [GitHub](https://github.com/pungrumpy)
 - [Twitter](https://twitter.com/pungrumpy)
 
----
-
 ## Holopin Badges
 
 [![@pungrumpy's Holopin badges](https://holopin.me/@pungrumpy)](https://holopin.io/@pungrumpy)
