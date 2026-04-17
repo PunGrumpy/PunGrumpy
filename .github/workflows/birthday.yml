@@ -1,38 +1,40 @@
-name: 🎂 Update Birthday
+name: 🎂 Update Age
 on:
   schedule:
-    - cron: '0 0 4 11 *'
+    - cron: "0 0 4 11 *"
   workflow_dispatch:
 jobs:
   birthday:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
       - name: 🛫 Checkout Code
-        uses: actions/checkout@v4
-      - name: 🆕 Update Birthday
-        shell: bash
+        uses: actions/checkout@v6
+
+      - name: 🆕 Update Age
+        id: update
         run: |
-          bash assets/scripts/updateBirthday.sh
+          bash scripts/update-age.sh
+          echo "age=$(grep -oP '(?<=apiVersion: v)[0-9]+' README.md)" >> $GITHUB_OUTPUT
+
       - name: 👶 Check for Changed
         id: check
-        uses: tj-actions/changed-files@v40
+        uses: tj-actions/changed-files@v44
         with:
           files: README.md
+
       - name: 📤 Commit & Push
-        if: ${{ github.event_name != 'workflow_dispatch' && steps.check.outputs.any_changed }}
-        uses: EndBug/add-and-commit@v9
-        with:
-          add: .
-          author_name: github-actions[bot]
-          author_email: 41898282+github-actions[bot]@users.noreply.github.com
-          message: 🎂 Update Birthday
-          commit: --signoff
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-      - name: 🚀 Push
-        if: ${{ github.event_name != 'workflow_dispatch' && steps.check.outputs.any_changed }}
-        uses: ad-m/github-push-action@master
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
+        if: github.event_name != 'workflow_dispatch' && steps.check.outputs.any_changed
+        run: |
+          git config --local user.name "PunGrumpy"
+          git config --local user.email "108584943+PunGrumpy@users.noreply.github.com"
+          git add README.md
+          git commit -m "🎂 Update Age" -m "Co-authored-by: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>"
+          git push
+
       - name: 📣 Dry Run Notification
         if: github.event_name == 'workflow_dispatch'
-        run: echo "This is a dry-run. No changes were committed."
+        run: |
+          echo "age=${{ steps.update.outputs.age }}"
+          echo "This is a dry-run. No changes were committed."
