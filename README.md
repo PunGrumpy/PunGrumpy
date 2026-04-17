@@ -114,8 +114,3 @@ spec:
     <img src="https://img.shields.io/github/followers/PunGrumpy?label=Followers&style=social" alt="GitHub Badge">
   </a>
 </div>
-
-
-
-
-
